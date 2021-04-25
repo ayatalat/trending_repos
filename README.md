@@ -1,6 +1,6 @@
 ***Trending Repositories*** 
 
-REST Api  list the languages used by the 100 trending public repos on GitHub.
+REST API that  list the languages used by the 100 trending public repos on GitHub.
 
 For every language, we get: 
 
